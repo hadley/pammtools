@@ -1,0 +1,21 @@
+pandoc: '2.2'
+pkgdown: 1.5.1
+pkgdown_sha: ~
+articles:
+  baseline: baseline.html
+  basics: basics.html
+  convenience: convenience.html
+  cumulative-effects: cumulative-effects.html
+  data-transformation: data-transformation.html
+  frailty: frailty.html
+  model-evaluation: model-evaluation.html
+  smj-tutorial: smj-tutorial.html
+  splines: splines.html
+  strata: strata.html
+  tdcovar: tdcovar.html
+  tveffects: tveffects.html
+last_built: 2020-04-20T22:57Z
+urls:
+  reference: https://adibender.github.io/pammtools/reference
+  article: https://adibender.github.io/pammtools/articles
+
